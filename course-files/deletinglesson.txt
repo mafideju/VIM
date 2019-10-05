@@ -1,0 +1,32 @@
+You can use this file to practice editing.
+
+First, fix this spelling mistakke.
+Fixx theese allso.
+Delete this text with the X command.
+This this training training is is provided provided by LinuxTrainingAcademy.com.
+This training is provided by LinuxTrainingAcademy.com.
+Here is another line of text.
+Guess what?  Here is even more text!
+Will you delete this line or not?  We'll see...
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+
+aa
+
+aa
+a
+a
+a
+a
+a
+a
+a
+a
